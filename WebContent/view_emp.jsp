@@ -24,7 +24,7 @@ tr:nth-child(even) {background-color: #f2f2f2;}
 </head>
 </head>
 <body>
-<h2>Student Table Demo</h2>
+<h2>Employees List</h2>
 <hr>
 <br/>
 
